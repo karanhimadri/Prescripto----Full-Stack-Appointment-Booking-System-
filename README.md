@@ -2,8 +2,7 @@
 
 A web app for **patients to book appointments**, **doctors to manage earnings and schedules**, and **admins to oversee the platform** — built with secure authentication, real-time features, and online payments.
 
-🔗 **Live Demo:** [LINK](https://your-live-link.com)  
-💻 **GitHub:** [LINK](https://github.com/yourusername/prescripto)
+🔗 **Live Demo:** [LINK](https://your-live-link.com)
 
 ---
 
